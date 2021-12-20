@@ -1,0 +1,560 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>专业治头秃的博客</title>
+  
+  <subtitle>Simple is better than complex!</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://hekun97@github.io/"/>
+  <updated>2021-12-20T14:18:32.388Z</updated>
+  <id>http://hekun97@github.io/</id>
+  
+  <author>
+    <name>专业治头秃</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://hekun97@github.io/2021/12/20/case/"/>
+    <id>http://hekun97@github.io/2021/12/20/case/</id>
+    <published>2021-12-20T14:18:32.388Z</published>
+    <updated>2021-12-20T14:18:32.388Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;需求&quot;&gt;&lt;a href=&quot;#需求&quot; class=&quot;headerlink&quot; title=&quot;需求&quot;&gt;&lt;/a&gt;需求&lt;/h1&gt;&lt;p&gt;通过用户信息列表展示，对用户信息的增删改查等操作。&lt;/p&gt;
+&lt;h1 id=&quot;设计&quot;&gt;&lt;a href=&quot;#设计&quot;
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JSP进阶-MVC-EL表达式-JSTL</title>
+    <link href="http://hekun97@github.io/2021/07/21/el-jstl-note/"/>
+    <id>http://hekun97@github.io/2021/07/21/el-jstl-note/</id>
+    <published>2021-07-21T02:14:52.000Z</published>
+    <updated>2021-12-20T14:16:40.573Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;JSP进阶&quot;&gt;&lt;a href=&quot;#JSP进阶&quot; class=&quot;headerlink&quot; title=&quot;JSP进阶&quot;&gt;&lt;/a&gt;JSP进阶&lt;/h1&gt;&lt;p&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JavaWEB" scheme="http://hekun97@github.io/categories/JavaWEB/"/>
+    
+    
+      <category term="Java JSP MVC EL JSTL" scheme="http://hekun97@github.io/tags/Java-JSP-MVC-EL-JSTL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cookie-JSP-Session</title>
+    <link href="http://hekun97@github.io/2021/07/20/javaweb-7-cookie-jsp-session/"/>
+    <id>http://hekun97@github.io/2021/07/20/javaweb-7-cookie-jsp-session/</id>
+    <published>2021-07-20T09:26:52.000Z</published>
+    <updated>2021-12-20T14:16:40.600Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;会话技术&quot;&gt;&lt;a href=&quot;#会话技术&quot; class=&quot;headerlink&quot; title=&quot;会话技术&quot;&gt;&lt;/a&gt;会话技术&lt;/h1&gt;&lt;h2 id=&quot;会话的概念&quot;&gt;&lt;a href=&quot;#会话的概念&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JavaWEB" scheme="http://hekun97@github.io/categories/JavaWEB/"/>
+    
+    
+      <category term="Java Cookie JSP Session" scheme="http://hekun97@github.io/tags/Java-Cookie-JSP-Session/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hexo的更多知识</title>
+    <link href="http://hekun97@github.io/2021/07/11/hexoknowledge/"/>
+    <id>http://hekun97@github.io/2021/07/11/hexoknowledge/</id>
+    <published>2021-07-11T08:38:40.000Z</published>
+    <updated>2021-12-20T14:16:40.601Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;hexo-链接到站内文章指定锚点&quot;&gt;&lt;a href=&quot;#hexo-链接到站内文章指定锚点&quot; class=&quot;headerlink&quot; title=&quot;hexo 链接到站内文章指定锚点&quot;&gt;&lt;/a&gt;hexo 链接到站内文章指定锚点&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="hexo" scheme="http://hekun97@github.io/categories/hexo/"/>
+    
+    
+      <category term="hexo" scheme="http://hekun97@github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Response相关知识</title>
+    <link href="http://hekun97@github.io/2021/07/11/javaweb-6-response-note/"/>
+    <id>http://hekun97@github.io/2021/07/11/javaweb-6-response-note/</id>
+    <published>2021-07-11T06:36:52.000Z</published>
+    <updated>2021-12-20T14:16:40.600Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;HTTP协议&quot;&gt;&lt;a href=&quot;#HTTP协议&quot; class=&quot;headerlink&quot; title=&quot;HTTP协议&quot;&gt;&lt;/a&gt;HTTP协议&lt;/h1&gt;&lt;h2 id=&quot;请求消息&quot;&gt;&lt;a href=&quot;#请求消息&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JavaWEB" scheme="http://hekun97@github.io/categories/JavaWEB/"/>
+    
+    
+      <category term="Java HTTP Servlet Response" scheme="http://hekun97@github.io/tags/Java-HTTP-Servlet-Response/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDBC连接池&amp;JDBCTemplate</title>
+    <link href="http://hekun97@github.io/2021/07/06/java-ji-chu-3.jdbc-lian-jie-chi-jdbctemplate/"/>
+    <id>http://hekun97@github.io/2021/07/06/java-ji-chu-3.jdbc-lian-jie-chi-jdbctemplate/</id>
+    <published>2021-07-06T01:54:16.000Z</published>
+    <updated>2021-12-20T14:16:40.600Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;数据库连接池&quot;&gt;&lt;a href=&quot;#数据库连接池&quot; class=&quot;headerlink&quot; title=&quot;数据库连接池&quot;&gt;&lt;/a&gt;数据库连接池&lt;/h1&gt;&lt;h2 id=&quot;基本知识&quot;&gt;&lt;a href=&quot;#基本知识&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java基础" scheme="http://hekun97@github.io/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="JavaSE JDBC" scheme="http://hekun97@github.io/tags/JavaSE-JDBC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>JDBC相关知识</title>
+    <link href="http://hekun97@github.io/2021/06/30/java-ji-chu-2.jdbc-bi-ji/"/>
+    <id>http://hekun97@github.io/2021/06/30/java-ji-chu-2.jdbc-bi-ji/</id>
+    <published>2021-06-30T15:48:29.000Z</published>
+    <updated>2021-12-20T13:34:56.920Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;JDBC&quot;&gt;&lt;a href=&quot;#JDBC&quot; class=&quot;headerlink&quot; title=&quot;JDBC&quot;&gt;&lt;/a&gt;JDBC&lt;/h1&gt;&lt;h2 id=&quot;JDBC概念&quot;&gt;&lt;a href=&quot;#JDBC概念&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java基础" scheme="http://hekun97@github.io/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="JavaSE JDBC" scheme="http://hekun97@github.io/tags/JavaSE-JDBC/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Servlet&amp;HTTP&amp;Request练习案例-用户登录</title>
+    <link href="http://hekun97@github.io/2021/06/28/javaweb-5.servlet-http-request-lian-xi-deng-lu-an-li/"/>
+    <id>http://hekun97@github.io/2021/06/28/javaweb-5.servlet-http-request-lian-xi-deng-lu-an-li/</id>
+    <published>2021-06-28T01:39:52.000Z</published>
+    <updated>2021-12-20T13:34:56.920Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;案例：用户登录&quot;&gt;&lt;a href=&quot;#案例：用户登录&quot; class=&quot;headerlink&quot; title=&quot;案例：用户登录&quot;&gt;&lt;/a&gt;案例：用户登录&lt;/h1&gt;&lt;h2 id=&quot;用户登录案例需求&quot;&gt;&lt;a href=&quot;#用户登录案例需求&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JavaWEB" scheme="http://hekun97@github.io/categories/JavaWEB/"/>
+    
+    
+      <category term="Java HTTP Servlet Request" scheme="http://hekun97@github.io/tags/Java-HTTP-Servlet-Request/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Servlet&amp;HTTP&amp;Request</title>
+    <link href="http://hekun97@github.io/2021/06/24/javaweb-4.servlet-http-request-note/"/>
+    <id>http://hekun97@github.io/2021/06/24/javaweb-4.servlet-http-request-note/</id>
+    <published>2021-06-24T09:03:52.000Z</published>
+    <updated>2021-12-20T14:16:40.599Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Servlet进阶&quot;&gt;&lt;a href=&quot;#Servlet进阶&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JavaWEB" scheme="http://hekun97@github.io/categories/JavaWEB/"/>
+    
+    
+      <category term="Java HTTP Servlet Request" scheme="http://hekun97@github.io/tags/Java-HTTP-Servlet-Request/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Servlet快速入门</title>
+    <link href="http://hekun97@github.io/2021/06/24/javaweb-3.servlet-kuai-su-ru-men/"/>
+    <id>http://hekun97@github.io/2021/06/24/javaweb-3.servlet-kuai-su-ru-men/</id>
+    <published>2021-06-24T09:01:52.000Z</published>
+    <updated>2021-12-20T13:34:56.919Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Servlet&quot;&gt;&lt;a href=&quot;#Servlet&quot; class=&quot;headerlink&quot; title=&quot;Servlet&quot;&gt;&lt;/a&gt;Servlet&lt;/h1&gt;&lt;h2 id=&quot;概念&quot;&gt;&lt;a href=&quot;#概念&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JavaWEB" scheme="http://hekun97@github.io/categories/JavaWEB/"/>
+    
+    
+      <category term="Java Tomcat Servlet" scheme="http://hekun97@github.io/tags/Java-Tomcat-Servlet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>将Tomcat集成到IDEA中</title>
+    <link href="http://hekun97@github.io/2021/06/24/javaweb-2.jiang-tomcat-ji-cheng-dao-idea-zhong/"/>
+    <id>http://hekun97@github.io/2021/06/24/javaweb-2.jiang-tomcat-ji-cheng-dao-idea-zhong/</id>
+    <published>2021-06-24T09:00:49.000Z</published>
+    <updated>2021-12-20T13:34:56.919Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;将Tomcat集成到IDEA中&quot;&gt;&lt;a href=&quot;#将Tomcat集成到IDEA中&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JavaWEB" scheme="http://hekun97@github.io/categories/JavaWEB/"/>
+    
+    
+      <category term="Java Tomcat IDEA" scheme="http://hekun97@github.io/tags/Java-Tomcat-IDEA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tomcat基础知识</title>
+    <link href="http://hekun97@github.io/2021/06/24/javaweb-1.tomcat-ji-chu-zhi-shi/"/>
+    <id>http://hekun97@github.io/2021/06/24/javaweb-1.tomcat-ji-chu-zhi-shi/</id>
+    <published>2021-06-24T08:57:43.000Z</published>
+    <updated>2021-12-20T13:34:56.919Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;web相关概念回顾&quot;&gt;&lt;a href=&quot;#web相关概念回顾&quot; class=&quot;headerlink&quot; title=&quot;web相关概念回顾&quot;&gt;&lt;/a&gt;web相关概念回顾&lt;/h1&gt;&lt;h2 id=&quot;软件架构&quot;&gt;&lt;a href=&quot;#软件架构&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="JavaWEB" scheme="http://hekun97@github.io/categories/JavaWEB/"/>
+    
+    
+      <category term="Java Tomcat" scheme="http://hekun97@github.io/tags/Java-Tomcat/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ListNode-链表</title>
+    <link href="http://hekun97@github.io/2021/06/22/listnode-lian-biao/"/>
+    <id>http://hekun97@github.io/2021/06/22/listnode-lian-biao/</id>
+    <published>2021-06-22T03:40:00.000Z</published>
+    <updated>2021-12-20T13:34:56.921Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;基本概念&quot;&gt;&lt;a href=&quot;#基本概念&quot; class=&quot;headerlink&quot; title=&quot;基本概念&quot;&gt;&lt;/a&gt;基本概念&lt;/h1&gt;&lt;p&gt;链表是一种数据结构，由数据和指针构成，链表的指针指向下一个节点。&lt;/p&gt;
+&lt;p&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java基础" scheme="http://hekun97@github.io/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="数据结构" scheme="http://hekun97@github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>linux下创建文件并写入内容</title>
+    <link href="http://hekun97@github.io/2021/06/07/linux-xia-chuang-jian-wen-jian-bing-xie-ru-nei-rong/"/>
+    <id>http://hekun97@github.io/2021/06/07/linux-xia-chuang-jian-wen-jian-bing-xie-ru-nei-rong/</id>
+    <published>2021-06-07T09:08:32.000Z</published>
+    <updated>2021-12-20T13:34:56.947Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;ol&gt;
+&lt;li&gt;输入命令&lt;code&gt;vi
+        
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Java核心类</title>
+    <link href="http://hekun97@github.io/2021/06/03/java-he-xin-lei/"/>
+    <id>http://hekun97@github.io/2021/06/03/java-he-xin-lei/</id>
+    <published>2021-06-03T06:39:55.000Z</published>
+    <updated>2021-12-20T13:34:56.921Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;字符串和编码-String-and-Coding&quot;&gt;&lt;a href=&quot;#字符串和编码-String-and-Coding&quot; class=&quot;headerlink&quot; title=&quot;字符串和编码(String and
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java基础" scheme="http://hekun97@github.io/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="JAVA" scheme="http://hekun97@github.io/tags/JAVA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>XML笔记</title>
+    <link href="http://hekun97@github.io/2021/03/23/xml-bi-ji/"/>
+    <id>http://hekun97@github.io/2021/03/23/xml-bi-ji/</id>
+    <published>2021-03-22T16:45:43.000Z</published>
+    <updated>2021-12-20T13:34:56.947Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;导航&quot;&gt;&lt;a href=&quot;#导航&quot; class=&quot;headerlink&quot; title=&quot;导航&quot;&gt;&lt;/a&gt;导航&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;#XML概念&quot;&gt;XML概念&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="XML" scheme="http://hekun97@github.io/categories/XML/"/>
+    
+    
+      <category term="XML" scheme="http://hekun97@github.io/tags/XML/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>面向对象编程</title>
+    <link href="http://hekun97@github.io/2020/12/01/java-ji-chu-1.mian-xiang-dui-xiang-bian-cheng/"/>
+    <id>http://hekun97@github.io/2020/12/01/java-ji-chu-1.mian-xiang-dui-xiang-bian-cheng/</id>
+    <published>2020-12-01T03:14:00.000Z</published>
+    <updated>2021-12-20T13:34:56.920Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;面向对象编程-OOP&quot;&gt;&lt;a href=&quot;#面向对象编程-OOP&quot; class=&quot;headerlink&quot; title=&quot;面向对象编程(OOP)&quot;&gt;&lt;/a&gt;面向对象编程(&lt;code&gt;OOP&lt;/code&gt;)&lt;/h1&gt;&lt;h2 id=&quot;面向对象编程的学习路线&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java基础" scheme="http://hekun97@github.io/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="JAVA" scheme="http://hekun97@github.io/tags/JAVA/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git笔记</title>
+    <link href="http://hekun97@github.io/2020/10/14/git-note/"/>
+    <id>http://hekun97@github.io/2020/10/14/git-note/</id>
+    <published>2020-10-14T06:43:43.000Z</published>
+    <updated>2021-12-20T14:16:40.597Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Git简介&quot;&gt;&lt;a href=&quot;#Git简介&quot; class=&quot;headerlink&quot; title=&quot;Git简介&quot;&gt;&lt;/a&gt;Git简介&lt;/h1&gt;&lt;h2 id=&quot;Git的概念&quot;&gt;&lt;a href=&quot;#Git的概念&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Git" scheme="http://hekun97@github.io/categories/Git/"/>
+    
+    
+      <category term="Git" scheme="http://hekun97@github.io/tags/Git/"/>
+    
+      <category term="分布式版本控制系统" scheme="http://hekun97@github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>SQL语句汇总</title>
+    <link href="http://hekun97@github.io/2020/10/14/sql-yu-ju-hui-zong/"/>
+    <id>http://hekun97@github.io/2020/10/14/sql-yu-ju-hui-zong/</id>
+    <published>2020-10-14T02:47:49.000Z</published>
+    <updated>2021-12-20T13:34:56.946Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;数据库与表的操作以及创建约束（一）&quot;&gt;&lt;a href=&quot;#数据库与表的操作以及创建约束（一）&quot; class=&quot;headerlink&quot; title=&quot;数据库与表的操作以及创建约束（一）&quot;&gt;&lt;/a&gt;数据库与表的操作以及创建约束（一）&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+    
+      <category term="SQL" scheme="http://hekun97@github.io/categories/SQL/"/>
+    
+    
+      <category term="MySQL" scheme="http://hekun97@github.io/tags/MySQL/"/>
+    
+      <category term="SQL" scheme="http://hekun97@github.io/tags/SQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Map集合</title>
+    <link href="http://hekun97@github.io/2020/07/12/map/"/>
+    <id>http://hekun97@github.io/2020/07/12/map/</id>
+    <published>2020-07-12T10:24:27.000Z</published>
+    <updated>2021-12-20T13:34:56.921Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Map&quot;&gt;&lt;a href=&quot;#Map&quot; class=&quot;headerlink&quot; title=&quot;Map&quot;&gt;&lt;/a&gt;Map&lt;/h1&gt;&lt;h2 id=&quot;主要内容&quot;&gt;&lt;a href=&quot;#主要内容&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Java基础" scheme="http://hekun97@github.io/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    
+    
+      <category term="Map" scheme="http://hekun97@github.io/tags/Map/"/>
+    
+  </entry>
+  
+</feed>
