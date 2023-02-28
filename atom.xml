@@ -3,7 +3,7 @@
   <title>专业治头秃的博客</title>
   
   <subtitle>Simple is better than complex!</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <link href="http://hekun97@github.io/atom.xml" rel="self"/>
   
   <link href="http://hekun97@github.io/"/>
   <updated>2022-08-12T08:51:24.556Z</updated>
@@ -23,23 +23,21 @@
     <published>2022-08-01T04:43:21.000Z</published>
     <updated>2022-08-12T08:51:24.556Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;Git使用小技巧【修改commit注释】&quot;&gt;&lt;a href=&quot;#Git使用小技巧【修改commit注释】&quot; class=&quot;headerlink&quot;
+    <summary type="html">&lt;h1 id=&quot;Git使用小技巧【修改commit注释】&quot;&gt;&lt;a href=&quot;#Git使用小技巧【修改commit注释】&quot; class=&quot;headerlink&quot;</summary>
         
       
     
-    </summary>
     
     
-      <category term="Git" scheme="http://hekun97@github.io/categories/Git/"/>
+    <category term="Git" scheme="http://hekun97@github.io/categories/Git/"/>
     
     
-      <category term="Git" scheme="http://hekun97@github.io/tags/Git/"/>
+    <category term="Git" scheme="http://hekun97@github.io/tags/Git/"/>
     
   </entry>
   
@@ -50,23 +48,21 @@
     <published>2021-12-27T06:27:32.000Z</published>
     <updated>2022-01-13T08:12:19.395Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot;</summary>
         
       
     
-    </summary>
     
     
-      <category term="WebDAV" scheme="http://hekun97@github.io/categories/WebDAV/"/>
+    <category term="WebDAV" scheme="http://hekun97@github.io/categories/WebDAV/"/>
     
     
-      <category term="WebDAV" scheme="http://hekun97@github.io/tags/WebDAV/"/>
+    <category term="WebDAV" scheme="http://hekun97@github.io/tags/WebDAV/"/>
     
   </entry>
   
@@ -77,23 +73,21 @@
     <published>2021-07-11T08:38:40.000Z</published>
     <updated>2021-12-21T01:35:58.019Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;hexo-链接到站内文章指定锚点&quot;&gt;&lt;a href=&quot;#hexo-链接到站内文章指定锚点&quot; class=&quot;headerlink&quot; title=&quot;hexo 链接到站内文章指定锚点&quot;&gt;&lt;/a&gt;hexo 链接到站内文章指定锚点&lt;/h1&gt;&lt;h2
+    <summary type="html">&lt;h1 id=&quot;hexo-链接到站内文章指定锚点&quot;&gt;&lt;a href=&quot;#hexo-链接到站内文章指定锚点&quot; class=&quot;headerlink&quot; title=&quot;hexo 链接到站内文章指定锚点&quot;&gt;&lt;/a&gt;hexo 链接到站内文章指定锚点&lt;/h1&gt;&lt;h2</summary>
         
       
     
-    </summary>
     
     
-      <category term="hexo" scheme="http://hekun97@github.io/categories/hexo/"/>
+    <category term="hexo" scheme="http://hekun97@github.io/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="http://hekun97@github.io/tags/hexo/"/>
+    <category term="hexo" scheme="http://hekun97@github.io/tags/hexo/"/>
     
   </entry>
   
@@ -104,24 +98,22 @@
     <published>2021-06-22T03:40:00.000Z</published>
     <updated>2021-12-20T13:34:56.921Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;基本概念&quot;&gt;&lt;a href=&quot;#基本概念&quot; class=&quot;headerlink&quot; title=&quot;基本概念&quot;&gt;&lt;/a&gt;基本概念&lt;/h1&gt;&lt;p&gt;链表是一种数据结构，由数据和指针构成，链表的指针指向下一个节点。&lt;/p&gt;
-&lt;p&gt;&lt;img
+    <summary type="html">&lt;h1 id=&quot;基本概念&quot;&gt;&lt;a href=&quot;#基本概念&quot; class=&quot;headerlink&quot; title=&quot;基本概念&quot;&gt;&lt;/a&gt;基本概念&lt;/h1&gt;&lt;p&gt;链表是一种数据结构，由数据和指针构成，链表的指针指向下一个节点。&lt;/p&gt;
+&lt;p&gt;&lt;img</summary>
         
       
     
-    </summary>
     
     
-      <category term="Java基础" scheme="http://hekun97@github.io/categories/Java%E5%9F%BA%E7%A1%80/"/>
+    <category term="Java基础" scheme="http://hekun97@github.io/categories/Java%E5%9F%BA%E7%A1%80/"/>
     
     
-      <category term="数据结构" scheme="http://hekun97@github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    <category term="数据结构" scheme="http://hekun97@github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
     
   </entry>
   
@@ -132,18 +124,16 @@
     <published>2021-06-07T09:08:32.000Z</published>
     <updated>2021-12-20T13:34:56.947Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;ol&gt;
-&lt;li&gt;输入命令&lt;code&gt;vi
+    <summary type="html">&lt;ol&gt;
+&lt;li&gt;输入命令&lt;code&gt;vi</summary>
         
       
     
-    </summary>
     
     
     
@@ -156,25 +146,23 @@
     <published>2021-03-22T16:45:43.000Z</published>
     <updated>2021-12-20T13:34:56.947Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;导航&quot;&gt;&lt;a href=&quot;#导航&quot; class=&quot;headerlink&quot; title=&quot;导航&quot;&gt;&lt;/a&gt;导航&lt;/h1&gt;&lt;ol&gt;
-&lt;li&gt;&lt;a href=&quot;#XML概念&quot;&gt;XML概念&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a
+    <summary type="html">&lt;h1 id=&quot;导航&quot;&gt;&lt;a href=&quot;#导航&quot; class=&quot;headerlink&quot; title=&quot;导航&quot;&gt;&lt;/a&gt;导航&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;#XML%E6%A6%82%E5%BF%B5&quot;&gt;XML概念&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a</summary>
         
       
     
-    </summary>
     
     
-      <category term="XML" scheme="http://hekun97@github.io/categories/XML/"/>
+    <category term="XML" scheme="http://hekun97@github.io/categories/XML/"/>
     
     
-      <category term="XML" scheme="http://hekun97@github.io/tags/XML/"/>
+    <category term="XML" scheme="http://hekun97@github.io/tags/XML/"/>
     
   </entry>
   
@@ -185,25 +173,23 @@
     <published>2020-10-14T06:43:43.000Z</published>
     <updated>2022-08-26T08:49:10.420Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;Git简介&quot;&gt;&lt;a href=&quot;#Git简介&quot; class=&quot;headerlink&quot; title=&quot;Git简介&quot;&gt;&lt;/a&gt;Git简介&lt;/h1&gt;&lt;h2 id=&quot;Git的概念&quot;&gt;&lt;a href=&quot;#Git的概念&quot; class=&quot;headerlink&quot;
+    <summary type="html">&lt;h1 id=&quot;Git简介&quot;&gt;&lt;a href=&quot;#Git简介&quot; class=&quot;headerlink&quot; title=&quot;Git简介&quot;&gt;&lt;/a&gt;Git简介&lt;/h1&gt;&lt;h2 id=&quot;Git的概念&quot;&gt;&lt;a href=&quot;#Git的概念&quot; class=&quot;headerlink&quot;</summary>
         
       
     
-    </summary>
     
     
-      <category term="Git" scheme="http://hekun97@github.io/categories/Git/"/>
+    <category term="Git" scheme="http://hekun97@github.io/categories/Git/"/>
     
     
-      <category term="Git" scheme="http://hekun97@github.io/tags/Git/"/>
+    <category term="Git" scheme="http://hekun97@github.io/tags/Git/"/>
     
-      <category term="分布式版本控制系统" scheme="http://hekun97@github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F/"/>
+    <category term="分布式版本控制系统" scheme="http://hekun97@github.io/tags/%E5%88%86%E5%B8%83%E5%BC%8F%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E7%B3%BB%E7%BB%9F/"/>
     
   </entry>
   
@@ -214,25 +200,23 @@
     <published>2020-10-14T02:47:49.000Z</published>
     <updated>2022-09-27T06:34:12.252Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;数据库与表的操作以及创建约束（一）&quot;&gt;&lt;a href=&quot;#数据库与表的操作以及创建约束（一）&quot; class=&quot;headerlink&quot; title=&quot;数据库与表的操作以及创建约束（一）&quot;&gt;&lt;/a&gt;数据库与表的操作以及创建约束（一）&lt;/h1&gt;&lt;h2
+    <summary type="html">&lt;h1 id=&quot;数据库与表的操作以及创建约束（一）&quot;&gt;&lt;a href=&quot;#数据库与表的操作以及创建约束（一）&quot; class=&quot;headerlink&quot; title=&quot;数据库与表的操作以及创建约束（一）&quot;&gt;&lt;/a&gt;数据库与表的操作以及创建约束（一）&lt;/h1&gt;&lt;h2</summary>
         
       
     
-    </summary>
     
     
-      <category term="SQL" scheme="http://hekun97@github.io/categories/SQL/"/>
+    <category term="SQL" scheme="http://hekun97@github.io/categories/SQL/"/>
     
     
-      <category term="MySQL" scheme="http://hekun97@github.io/tags/MySQL/"/>
+    <category term="MySQL" scheme="http://hekun97@github.io/tags/MySQL/"/>
     
-      <category term="SQL" scheme="http://hekun97@github.io/tags/SQL/"/>
+    <category term="SQL" scheme="http://hekun97@github.io/tags/SQL/"/>
     
   </entry>
   
@@ -243,23 +227,21 @@
     <published>2020-02-18T17:28:40.000Z</published>
     <updated>2021-12-20T13:34:56.957Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;程序设计的基本方法&quot;&gt;&lt;a href=&quot;#程序设计的基本方法&quot; class=&quot;headerlink&quot; title=&quot;程序设计的基本方法&quot;&gt;&lt;/a&gt;程序设计的基本方法&lt;/h1&gt;&lt;h2 id=&quot;程序的基本编写方法&quot;&gt;&lt;a href=&quot;#程序的基本编写方法&quot;
+    <summary type="html">&lt;h1 id=&quot;程序设计的基本方法&quot;&gt;&lt;a href=&quot;#程序设计的基本方法&quot; class=&quot;headerlink&quot; title=&quot;程序设计的基本方法&quot;&gt;&lt;/a&gt;程序设计的基本方法&lt;/h1&gt;&lt;h2 id=&quot;程序的基本编写方法&quot;&gt;&lt;a href=&quot;#程序的基本编写方法&quot;</summary>
         
       
     
-    </summary>
     
     
-      <category term="编程方法" scheme="http://hekun97@github.io/categories/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95/"/>
+    <category term="编程方法" scheme="http://hekun97@github.io/categories/%E7%BC%96%E7%A8%8B%E6%96%B9%E6%B3%95/"/>
     
     
-      <category term="程序设计" scheme="http://hekun97@github.io/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    <category term="程序设计" scheme="http://hekun97@github.io/tags/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
     
   </entry>
   
@@ -270,23 +252,21 @@
     <published>2020-02-16T09:45:19.000Z</published>
     <updated>2021-12-21T01:35:58.020Z</updated>
     
-    <summary type="html">
     
       
       
         
         
-          &lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;花了几天用 hexo 搭建了我的个人博客，点击链接可以访问，欢迎来访： &lt;a
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;花了几天用 hexo 搭建了我的个人博客，点击链接可以访问，欢迎来访： &lt;a</summary>
         
       
     
-    </summary>
     
     
-      <category term="hexo" scheme="http://hekun97@github.io/categories/hexo/"/>
+    <category term="hexo" scheme="http://hekun97@github.io/categories/hexo/"/>
     
     
-      <category term="hexo" scheme="http://hekun97@github.io/tags/hexo/"/>
+    <category term="hexo" scheme="http://hekun97@github.io/tags/hexo/"/>
     
   </entry>
   
